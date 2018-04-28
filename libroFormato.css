@@ -1,0 +1,33 @@
+html {
+    background:#A6ACAF;
+    
+}
+
+strong{
+    color:darkseagreen;
+    font-weight:bolder;
+}
+vert_redon{ 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 1.2em; 
+    color: #FFFFFF;  
+    border-radius: 20px;    
+    width: 300px;    
+    padding: 20px;    
+    border: 1px solid #CCCCCC;    
+    background-color:#990000; 
+    }  
+label{
+    font-weight: lighter;
+    color:black
+        font-size:20px;
+    
+}
+legend{
+    font-family: fantasy;
+    font-size: 40px
+        
+}
+form{
+    background:#F0F3F4  
+}
